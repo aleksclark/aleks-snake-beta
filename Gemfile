@@ -4,3 +4,5 @@ gem 'sinatra'
 gem 'json'
 gem 'rack-contrib'
 gem 'activesupport'
+
+gem "rerun", "~> 0.13.1"
